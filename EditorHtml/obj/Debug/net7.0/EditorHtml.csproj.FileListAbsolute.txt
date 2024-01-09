@@ -1,0 +1,15 @@
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/bin/Debug/net7.0/EditorHtml
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/bin/Debug/net7.0/EditorHtml.deps.json
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/bin/Debug/net7.0/EditorHtml.runtimeconfig.json
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/bin/Debug/net7.0/EditorHtml.dll
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/bin/Debug/net7.0/EditorHtml.pdb
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.AssemblyReference.cache
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfoInputs.cache
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfo.cs
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.CoreCompileInputs.cache
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.dll
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/refint/EditorHtml.dll
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.pdb
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/EditorHtml.genruntimeconfig.cache
+/Users/felipevieira/Documents/www/projetosC/EditorHtml/obj/Debug/net7.0/ref/EditorHtml.dll

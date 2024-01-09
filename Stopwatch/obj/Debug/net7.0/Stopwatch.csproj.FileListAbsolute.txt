@@ -1,0 +1,15 @@
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/bin/Debug/net7.0/Stopwatch
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/Users/felipevieira/Documents/www/projetosC/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll

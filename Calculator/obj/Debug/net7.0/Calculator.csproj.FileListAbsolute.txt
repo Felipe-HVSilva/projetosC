@@ -1,0 +1,15 @@
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/felipevieira/Documents/www/projetosC/Calculator/bin/Debug/net7.0/Calculator
+/Users/felipevieira/Documents/www/projetosC/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/felipevieira/Documents/www/projetosC/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/felipevieira/Documents/www/projetosC/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/felipevieira/Documents/www/projetosC/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/felipevieira/Documents/www/projetosC/Calculator/obj/Debug/net7.0/ref/Calculator.dll

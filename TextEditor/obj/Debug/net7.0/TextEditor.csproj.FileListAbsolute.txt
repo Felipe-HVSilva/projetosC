@@ -1,0 +1,15 @@
+/Users/felipevieira/Documents/www/projetosC/TextEditor/bin/Debug/net7.0/TextEditor
+/Users/felipevieira/Documents/www/projetosC/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/Users/felipevieira/Documents/www/projetosC/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/Users/felipevieira/Documents/www/projetosC/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/Users/felipevieira/Documents/www/projetosC/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/Users/felipevieira/Documents/www/projetosC/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
